@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MonsePronello</title>
+    <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="javapractica.css">
+
+   
+</head>
+
+<body>
+    
+
+    <header class="hero">
+      
+
+        
+        <nav class="nav container">
+            
+            <div class="nav__logo">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAqxJREFUaEPtWdt12kAQnRl/mPWHFlUQqCC4gkAFSQfBHcQV2Kkg6SCkA3dgOrBTQXAFYvlAOCfs5Ix4RF5WYNmSJc6RPqXV7r1z5+6MtAhHfuGR44eGQNUKNgrUVoHH2ezTkvkKAXoVg5wQ4uVpENz4cGSmUGzMbwDoVAw+WZ4B7s+0Ps9LgOsAfoNBae0N9j4FGgJFKtgoUGQ0XzJXo8Amai1rQwzDqS+K8XQ6BsQPhyKcNcefKOotie587xemgOzJytqBj0Q8mw2B+ccBAj+V1kN3jID/S3SLAO1SCawnHymtL7wqGDMBgHeZJKwdqDAcp5/HUdRhorss8DK2MAW2CyNeqCAYuUAPqPCgtN6p7nEU9YHodp9yxRMA+Kq0vnYX5ShqL4hEBe0+Q4DLltbfd0hXSUAAu36IjRFiVy5QMa/c2xlfJQEB6yqxViFyCCTmlRRzU6/SFJobEylrux4VxB+ftySsHdDJSdsy91zClRKIjWHwGFp2FiCSllyuxLyxMUJqUj8CK1BdN+fnxtwgwEcx76m1owWRpNWO+atXIHHm7ra6ASbmfSQaMsC3OhMYqyAY+OqCmDb1hVdTBQS5p8rKbSdFakwA0a/CyrybHanGBFYqdFUYSiVOLk9NqAmBtWk9LfSTbtPTG9WCwBbker+/f9L7pFSYGyNdZvrfUrUEGPGXWi776crr+RBJQLr3fe9uUm1d5P5Xbmc7K6obNS1rO4c+ZhhgKu3Fgkg6zwTUPvDPIVEIAQGGiJIu/ou5vzUvgIzrpD5SJoC4NbdvAmZuZ/3KLIRAJvA3eNAQeIMg712iUaBR4JUReEkK7f+/80pAeV6XGnIWBN6ToszzgeSICeAamd/nWayEsQ+E+CX3EVMJQEqZsjlmLSWsOSZtFMgRrFKGHr0C/wC9JvxA9vlAMQAAAABJRU5ErkJggg=="/>
+            </div>
+
+            <ul class="nav__link nav__link--menu">
+
+               
+
+
+                <li class="nav__items">
+                    <a href="#iconos" class="nav__links">Iconos</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#knowledge" class="nav__links">Knowledge</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#planes" class="nav__links">Price Container</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#testimonios" class="nav__links">Slider</a>
+                </li>
+
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAL1JREFUaEPtmLEOgCAMRGF04v8/k8lRY6KJkZjWlEZonisKvXdHg+Q0+ZMnrz8h4G8H3RxYa93u4pZSXNZymfQoHAHKbOLAGygiRISUBIiQERRdiAgRISOBsBFy4tJM69aFEKAkEM+B5ylSCSJ9/ePqtU7jQK+JJeG91kHARXqYCEnWjzYerwuNRliqBwfCHua4VpHCf4677QEcwAElAbqQERSbmAgRISMBImQE6NaFjHWpP0eAGpXTi9M7sAMIAZAxnT0qcQAAAABJRU5ErkJggg==" class="nav__close">
+            </ul>
+
+            <div class="nav__menu">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAALFJREFUaEPt1jESwjAMBVGnpMr9j0lFCTdAxRsPY2bTf1nalZNc6/DnOrz/1QC/NpiBDCCBVggBcjwDjBAL/L+B1/P5RkgUf9z3V8ijgQYg/mtlAAFuj493YHsHeEADIECOZ4ARYoHRQB8yJNyH7PgVwg3YHh8v8fYO8IAGQIAczwAjxAKjgeNfow2AK9KvBALcHh8v8fYO8IAGQIAczwAjxAIZQIAczwAjxAIZQIAc/wD+djAxRQqI6QAAAABJRU5ErkJggg==" class="nav__img">
+            </div>
+        </nav>
+
+        <section class="hero__container container">
+        
+
+            
+            <h1 class="hero__title">Hola Bienvenido</h1>
+            <p class="hero__paragraph">Soy Monserrat Maria Las Heras Pronello</p>
+            <a href="#" class="cta">Comienza</a>
+            
+         
+            
+        </section>
+    </header>
+
+    <main>
+        <section id="iconos">
+        <div class="container about">
+            <h2 class="subtitle">¿Qué estoy aprendiendo en este curso?</h2>
+            <p class="about__paragraph">Todo lo necesario y obligatorio de CSS, (Flexbox, Grid, Custom properties,
+                Position, Animaciones, Box Model y más)</p>
+
+            <div class="about__main">
+                <article class="about__icons">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAgJJREFUaEPtmfsxQ0EUxr9UQAd0gArQARWgAlSAClABOqACVIAKUAEqYH4ze2bO7Nwbs7H3ZjPOzuSP5O7je5zHJplowcdkwfErCMzbwXCgZQe+5w0uO78zWqaFUBCo7GA4UFnQ4u3CgWLJKi8IByoLWrxdOFAsWeUF4UBlQYu3CweKJau8IBwoFfRG0ltatCVpM9vgS9Jten1KWpXEvL2eg0Z3YFvSQwJzKunEAXtJYAGej/W0bmneX2j6CKA8aneBN8yQeGqVwKWkIwcOZwida0mE3XJyy89hejMhdCzpwuXGvSNDqO0nh/LQaobAmSSAMgilZ0l5vHflcTMECBNUtgEJCPVVH5vXDAEAbSTlvdK/EWmKABVo15XZnAj9Ya3VKuRxUXnICWt4/hm54Uk05UCepDQ8iFjj4zml1VeopgkYIcKK8LHhfx0clMB76qzecp+o/ipBJ6ZJ0W0PMysek/KjErC6ThUhBFYkcdcBoA0aF2ApoYC3awTEeE8fQIQdV53oyB9uj0EcwG5s9wPgJKAfr6lpkaw4M+0eZOvyC+AgBDjsIN1j8sS09yh87h5CjoveNBI4cZXuRbZ0MAIc0FUOCQHCxq4NniDgCau7zC37PuA79SgE7BCAoTDgfQ70uVPy+aAOlACZde7/IzCrUqOui79ZR5W747BwIBz4owI/XH+EMRS4hHsAAAAASUVORK5CYII=" class="about__icon">
+                    <h3 class="about__title">JAVASCRIPT</h3>
+                    <p class="about__paragrah">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae tempore
+                        porro eius facilis?</p>
+                </article>
+
+                <article class="about__icons">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAn5JREFUaEPtWP8xBkEMfSpABXSAClABKkAFqAAV0AEqQAWoABWgAlTAvHFndjLZS/bHfefG7cw33x+XS97bl02yN4eRr7mR48dEYGgFJwXGoMAegN2BgF4BuOyK7UmhEwDHAxE4BcD40fUvCGwAuBtIgU0A96UKjJ7AKoDHgRRYA/BUqgDf/1KcPAP4qERsAcCK4ss8o6ZB41QjYOZnArlYmpr4TIMGBHd6XgCqSWAbwLXw/wZg2doELwFWgnXhzKzRVvDgudZrHgBQmc5VQoAdsrNLdkTm7r7OkgCB1hwnpHqaf44RHGOqKFB7nDgCcB4gy05RbwrVJiALQO8EtCqhSevtDYeiQb0DYC8I1w6Am1op5B0n9jMPdnaf8aaQl0Buae2dQGyckArnEMjuwgzuVcBLgLXd6g3sAaHNnyJgnTk+lx1WKxCfyqFWfacooJU62VE5esuZSQaWBLLHiNQU8tRqNqcDQwZ5TmZGgDV5yxjoPA3PM0bcAmBqmSslhTRwMhAb1JkRVTYoj7JRl6UEtJGXHZW7x+rCf94lCJI/qihvcTMjwMnwQmyFa2Y3FNHGCHdHT1FAq9es+0wtplLO/Tj2wcB92yslEG5umyIkE15WQhumF292bYrFroy9EGCwF7Ms/BjwUwjznWS4QtAeF4teRVMU8I4THoCWjRuX27CJqE2NFpic525cbsMGBVND+wCVAzL2Di9FPNyulUqApZQHUHZkVzCHEc8Mz4410f66SiUQYgib1ZIDnGbCYZCA2wqW7KaEQBiMFaol1KUOx+QWLP9j5dZNpBYBGVAbJdqddoPzGPZFwBO7is1EoMo2FjiZFCjYvCqvjl6BbznUkDEGXOIdAAAAAElFTkSuQmCC" class="about__icon">
+                    <h3 class="about__title">CSS</h3>
+                    <p class="about__paragrah">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae tempore
+                        porro eius facilis?</p>
+                </article>
+
+                <article class="about__icons">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAmtJREFUaEPtWNExBEEU7IsAESACRIAIEAEiIANEgAgQASJABIgAESACqqtuq8ar2Zl+O3O3tmrn56ru3sx0T795/eYmGPiYDBw/RgJ9KzgqMAQFHgFs9gT0CcBWam8lhS4AHPVE4BLAcSmBUwAnPRE4A8D9W4eiwOAJMAcfelJgGwDvYJECgyewDuA5cgSvAL4qKbMIYC2y1gaAl1IFOP8nskhWXge5NpWzdzQbMAUxeAJMlQVzoocArh2nnAplrT83AR8AVnLrqwrE3NjWaKZBV8fmXOu4WRcmuZoEavtFVQJMlX0j5z2A3eC7AwBXOckdv98A4JrJoSoQO117QrX9IttGeFJIIUC/YOPXZXCuLRJVCTBVbg0yVqalLmgjcz4B0MzCsQfgLre+mkKdjSYHoNRn/gMBnjwVsENyepUAF4+5MQ0o2atEgH2bOUXqlhIQM+RPmFq9JGxSUCJPCSbs11m3lzOsLIE2/5CwSUFTQEo7ETM8y8eWR6VEt55JbQJKO9EbAdbkHXMU9l8DpZ2w9T22rm1TqijgkZrGF3aYTD8Cjb1vldScOwFPdZobgVh60AP4bi0ZMX+RH0ueS5zqNpv0YInMGRsbNz58mjSLkZdcmBNrEQhBsMkLCfG3ELBt2uZGgO/Tt5JcccxdBfCuxHsUaOuHlH28MTIuOTDRTnjBKfEyLjlwuiu7T15ma2gKKCWGBsayKr/svARCEE0V4WeugWsDz78nCbgxOoXkn5gSAuFCvOANoZQ6fAuErixd1BSrWgTsHqE6LKupVsJ96uGEWREoAuWZPBLwnNYsYkcFZnGqnjUHr8AvjICGMRiTMHQAAAAASUVORK5CYII=" class="about__icon">
+                    <h3 class="about__title">HTML</h3>
+                    <p class="about__paragrah">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae tempore
+                        porro eius facilis?</p>
+                </article>
+            </div>
+        </div>
+        </section>
+
+        <section id="knowledge">
+            <div class="knowledge__container container">
+                <div class="knowledege__texts">
+                    <h2 class="subtitle">Estas viendo mi practica de CSS HTML JAVASCRIPT</h2>
+                    <p class="knowledge__paragraph">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi,
+                        aliquam nemo in facere suscipit at delectus unde labore ad officia iste accusantium eaque
+                        aperiam laborum est voluptate totam? Modi, obcaecati?</p>
+                    <a href="#" class="cta">Entra al curso</a>
+                </div>
+
+                <figure class="knowledge__picture">
+                    <img src="https://i.pinimg.com/564x/6c/dd/c2/6cddc2559eafc8577309678c059552f6.jpg" class="knowledge__img">
+                </figure>
+            </div>
+        </section>
+
+        <section id="planes">
+            <div section class="price container">
+            <h2 class="subtitle">Obten el plan perfecto para aprender</h2>
+
+            <div class="price__table">
+                <div class="price__element">
+                    <p class="price__name">Flexbox</p>
+                    <h3 class="price__price">Free</h3>
+
+                    <div class="price__items">
+                        <p class="price__features">Flexbox</p>
+                        <p class="price__features">Layouts</p>
+                        <p class="price__features">Responsive</p>
+                    </div>
+
+                    <a href="#" class="price__cta">Empieza ahora</a>
+                </div>
+
+
+                <div class="price__element price__element--best">
+                    <p class="price__name">Grid</p>
+                    <h3 class="price__price">$30/mes</h3>
+
+                    <div class="price__items">
+                        <p class="price__features">Grid</p>
+                        <p class="price__features">Implicit Grid</p>
+                        <p class="price__features">Responsive</p>
+                    </div>
+
+                    <a href="#" class="price__cta">Empieza ahora</a>
+                </div>
+
+
+                <div class="price__element">
+                    <p class="price__name">Animaciones</p>
+                    <h3 class="price__price">$40/mes</h3>
+
+                    <div class="price__items">
+                        <p class="price__features">Animation</p>
+                        <p class="price__features">Transition</p>
+                        <p class="price__features">Render Website</p>
+                    </div>
+
+                    <a href="#" class="price__cta">Empieza ahora</a>
+                </div>
+
+
+            </div>
+            </div>
+        </section>
+
+<section id="testimonios">
+        <div class="testimony">
+            <div class="testimony__container container">
+               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAQpJREFUaEPt2FEOwjAMA9DspMDN4CbcjCnSkPrBaLvYjiplX3x0wy8u6sRmi1/b4vmtANkNVgPVQHACtYWCAwzfXg1MjvBpZh8ze0zed7pc2YCHvx1J/DMEoQK04b/ThCAUgF/hYQg24F94R7zM7B75PTAB9PAOZwEk4VkAWXgGQBoeDZCHRwJSwqMAaeERgNTwUUB6eDYA8q7TO6WjB1mvBToiCvABpSIQgFQECpCGQAJSEGiAHMEASBEsgAzBBEgQbEAP4X+t+Dly+VIAzhDh8NF3odmptSc2JLwa4N/3PrZMaNu0k1Ntodm2htcXYHhUpIXVAGmww4+tBoZHRVpYDZAGO/zY5RvYAQgIODGcFQF/AAAAAElFTkSuQmCC" class="testimony__arrow" id="before">
+
+                <section class="testimony__body testimony__body--show" data-id="1">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre Monserrat Maria, <span class="testimony__course">estudiante
+                                de CSS.</span></h2>
+                        <p class="testimony__review">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut est
+                            esse, asperiores eaque totam nulla repudiandae quasi, deserunt culpa exercitationem
+                            blanditiis laborum veniam laboriosam saepe reiciendis dolorem. Cum, ratione voluptatum!</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="https://i.pinimg.com/564x/05/2b/9c/052b9c2a791f7f611ca17d878068a8b3.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="2">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es Monse Pronello, <span class="testimony__course">estudiante de
+                                JAVASCRIPT.</span></h2>
+                        <p class="testimony__review">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut est
+                            esse, asperiores eaque laborum veniam laboriosam saepe reiciendis dolorem. Cum, ratione
+                            voluptatum!</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="https://i.pinimg.com/564x/21/4f/19/214f1912241ec84c3022e25cbab9ed1d.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="3">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es Monserrat Las Heras, <span class="testimony__course">estudiante de
+                                HTML.</span></h2>
+                        <p class="testimony__review">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut est
+                            esse, niam laboriosam saepe reiciendis dolorem. Cum, ratione voluptatum!</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="https://i.pinimg.com/564x/75/dc/0e/75dc0ef9e2bccc8468b41fa17d80462b.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="4">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es mnchilhp, <span class="testimony__course">estudiante de
+                                CSS.</span></h2>
+                        <p class="testimony__review">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut est
+                            esse, niam laboriosam saepe reiciendis dolorem. Cum, ratione voluptatum!</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="https://i.pinimg.com/564x/55/f4/38/55f438a4e0bc78f0f39c4e401de14076.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAASpJREFUaEPtlt0NwjAMhK8bMAojsAkwGTABIzAayBKRShWq/Nw5reQ+9SFx7ruzlUzY+TftXD8CYHSCkUAk0OlAtFCngd3bI4GFhXcAbwDXbmsLCzATMPHn77n27wLBApiLT965QDAAcuLdINQABiJNggGQRKb+z42fDIIFMAyCCTAEgg3gDqEAcIVQAbhBKAFcINQAcggPACnEVgAeAC6FD9CfZR4Aa28lE9Ms3jarAaTi1QBy8UoAF/EKgAOAJ4DTykB29fyyLnMGTPwLwNFLPDOBIeJZAMPEMwCGimcAWA27QW9/+p46sLkzWEOcg5CLZyWQjJlDuIhnA6R2sjug6WG21cdci67iPawZKD6QvTAA2I7W1osEah1jr48E2I7W1osEah1jr/8A1Lw3McKUuUMAAAAASUVORK5CYII=" class="testimony__arrow" id="next">
+            </div>
+        </div>
+        </section>
+
+        <section class="questions container">
+            <h2 class="subtitle">Preguntas frecuentes</h2>
+            <p class="questions__paragraph">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea, porro
+                doloribus neque perspiciatis sapiente fuga.</p>
+
+            <section class="questions__container">
+                <article class="questions__padding">
+                    <div class="questions__answer">
+                        <h3 class="questions__title">¿Qué es CSS?
+                            <span class="questions__arrow">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAR5JREFUaEPtllEOwiAQRLcnVW+mJ9WQSEIaCgtviSGOX/3oLPNmoHjY5r9jc/8mgF83qAbUAExAWwgGiOVqAEcIB6gBGCCWqwEcIRzwtw08zextZg8YYJZPz5tpIC12+66cnikEmjcKUC5WpjcLgeeNANQWIxAh86IAEsjIdmqZT7NeZnb3nK8RgGwy7//afA9EmPlkYBSAQoSanwWYhQg3TwBGIZaYpwBeiPRe60C6D2zt0M2cgfOcXrqtjwkyH9FAeQ+0vk41CGw+EsCznUqIEPPRAF6IMPMrAHoQoeZXAVxBhJtfCXCGWGJ+NUCG6N0Dnv9sl+9E3APIABULgCZI9WqAJkj1aoAmSPVqgCZI9WqAJkj1aoAmSPXbN/ABpO42MV3CRlAAAAAASUVORK5CYII=" class="questions__img">
+                            </span>
+                        </h3>
+
+                        <p class="questions__show">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
+                            facere, quidem eum id excepturi assumenda explicabo nam accusamus veritatis voluptates
+                            eveniet adipisci, dicta nihil nemo modi possimus officiis quam atque? Lorem ipsum, dolor sit
+                            amet consectetur adipisicing elit. Quos facere, quidem eum id excepturi assumenda explicabo
+                            nam accusamus veritatis voluptates eveniet adipisci, dicta nihil nemo modi possimus officiis
+                            quam atque?</p>
+                    </div>
+                </article>
+
+                <article class="questions__padding">
+                    <div class="questions__answer">
+                        <h3 class="questions__title">¿Qué es HTML?
+                            <span class="questions__arrow">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAR5JREFUaEPtllEOwiAQRLcnVW+mJ9WQSEIaCgtviSGOX/3oLPNmoHjY5r9jc/8mgF83qAbUAExAWwgGiOVqAEcIB6gBGCCWqwEcIRzwtw08zextZg8YYJZPz5tpIC12+66cnikEmjcKUC5WpjcLgeeNANQWIxAh86IAEsjIdmqZT7NeZnb3nK8RgGwy7//afA9EmPlkYBSAQoSanwWYhQg3TwBGIZaYpwBeiPRe60C6D2zt0M2cgfOcXrqtjwkyH9FAeQ+0vk41CGw+EsCznUqIEPPRAF6IMPMrAHoQoeZXAVxBhJtfCXCGWGJ+NUCG6N0Dnv9sl+9E3APIABULgCZI9WqAJkj1aoAmSPVqgCZI9WqAJkj1aoAmSPXbN/ABpO42MV3CRlAAAAAASUVORK5CYII=" class="questions__img">
+                            </span>
+                        </h3>
+
+                        <p class="questions__show">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
+                            facere, quidem eum id excepturi assumenda explicabo nam accusamus veritatis voluptates
+                            eveniet adipisci, dicta nihil nemo modi possimus officiis quam atque? Lorem ipsum, dolor sit
+                            amet consectetur adipisicing elit. Quos facere, quidem eum id excepturi assumenda explicabo
+                            nam accusamus veritatis voluptates eveniet adipisci, dicta nihil nemo modi possimus officiis
+                            quam atque?</p>
+                    </div>
+                </article>
+
+                <article class="questions__padding">
+                    <div class="questions__answer">
+                        <h3 class="questions__title">¿Qué es JAVASCRIPT?
+                            <span class="questions__arrow">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAR5JREFUaEPtllEOwiAQRLcnVW+mJ9WQSEIaCgtviSGOX/3oLPNmoHjY5r9jc/8mgF83qAbUAExAWwgGiOVqAEcIB6gBGCCWqwEcIRzwtw08zextZg8YYJZPz5tpIC12+66cnikEmjcKUC5WpjcLgeeNANQWIxAh86IAEsjIdmqZT7NeZnb3nK8RgGwy7//afA9EmPlkYBSAQoSanwWYhQg3TwBGIZaYpwBeiPRe60C6D2zt0M2cgfOcXrqtjwkyH9FAeQ+0vk41CGw+EsCznUqIEPPRAF6IMPMrAHoQoeZXAVxBhJtfCXCGWGJ+NUCG6N0Dnv9sl+9E3APIABULgCZI9WqAJkj1aoAmSPVqgCZI9WqAJkj1aoAmSPXbN/ABpO42MV3CRlAAAAAASUVORK5CYII=" class="questions__img">
+                            </span>
+                        </h3>
+
+                        <p class="questions__show">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
+                            facere, quidem eum id excepturi assumenda explicabo nam accusamus veritatis voluptates
+                            eveniet adipisci, dicta nihil nemo modi possimus officiis quam atque? Lorem ipsum, dolor sit
+                            amet consectetur adipisicing elit. Quos facere, quidem eum id excepturi assumenda explicabo
+                            nam accusamus veritatis voluptates eveniet adipisci, dicta nihil nemo modi possimus officiis
+                            quam atque?</p>
+                    </div>
+                </article>
+            </section>
+
+            <section class="questions__offer">
+                <h2 class="subtitle">¿Estas listo para aprender?</h2>
+                <p class="questions__copy">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet ratione
+                    architecto magnam, officiis ex porro vero est voluptates quaerat quibusdam illo veniam reprehenderit
+                    eius atque tempora iure ab non autem.</p>
+                <a href="#" class="cta">Aprende ahora</a>
+            </section>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <section class="footer__container container">
+            <nav class="nav nav--footer">
+                <h2 class="footer__title">HTML CSS JAVASCRIPT.</h2>
+
+                <ul class="nav__link nav__link--footer">
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Inicio</a>
+                    </li>
+                    
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Acerca de</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Contacto</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Blog</a>
+                    </li>
+                </ul>
+            </nav>
+
+
+ 
+
+            <form class="footer__form" action="https://formspree.io/f/mknkkrkj" method="POST">
+                <h2 class="footer__newsletter">Suscribete a la newsletter</h2>
+                <div class="footer__inputs">
+                    <input type="email" placeholder="Email:" class="footer__input" name="_replyto">
+                    <input type="submit" value="Registrate" class="footer__submit">
+                </div>
+            </form>
+        </section>
+
+        <section class="footer__copy container">
+            <div class="footer__social">
+                <a href="#" class="footer__icons"><img src="" class="footer__img"></a>
+                <a href="#" class="footer__icons"><img src="" class="footer__img"></a>
+                <a href="#" class="footer__icons"><img src="" class="footer__img"></a>
+            </div>
+
+            <h3 class="footer__copyright">Gracias por ver &copy; Monse Pronello</h3>
+        </section>
+    </footer>
+
+    <script src="slider.js"></script>
+    <script src="questions.js"></script>
+    <script src="menu.js"></script>
+</body>
+
+</html>
